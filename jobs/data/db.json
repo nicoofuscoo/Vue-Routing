@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        {
+            "title": "Builder",
+            "id": 1,
+            "details": "bricks n stuff"
+        },
+        {
+            "title": "Engineer",
+            "id": 2,
+            "details": "nerd"
+        },
+        {
+            "title": "Football Player",
+            "id": 3,
+            "details": "ew"
+        }
+    ]
+}
